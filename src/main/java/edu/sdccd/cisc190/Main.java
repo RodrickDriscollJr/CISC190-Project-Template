@@ -9,7 +9,14 @@ import javafx.stage.Stage;
 
 import java.io.*;
 
+import java.util.Scanner;
+
 public class Main extends Application {
+
+    //This is where the game actually presents everything
+
+
+
     public static final String APP_NAME_FILE = "AppName.txt";
 
     public static void main(String[] args) {
